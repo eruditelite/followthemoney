@@ -8,7 +8,7 @@ if (2 != len(sys.argv)):
 tree = ET.parse(str(sys.argv[1]))
 root = tree.getroot()
 
-print("candidate\tdollars")
+print("contributor\tamount")
 
 for records in tree.findall('records'):
     for record in records.findall('record'):
