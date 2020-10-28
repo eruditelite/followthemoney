@@ -12,7 +12,7 @@ wget --wait=2 \
       --adjust-extension \
       --no-clobber \
       -e robots=off \
-      <the link you copied above>
+	  'the link you copied above'
 
 This will create a directory, api.followthemoney.org that contains a
 file.  The file will be something like 'index.html?dt=...'.  You
