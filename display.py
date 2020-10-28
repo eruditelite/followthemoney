@@ -12,6 +12,6 @@ print("candidate\tdollars")
 
 for records in tree.findall('records'):
     for record in records.findall('record'):
-        candidate = record.find('Candidate').text
-        dollars = record.find('Total_Dollars').text
-        print(candidate, "\t", dollars)
+        contributor = record.find('Contributor').text
+        amount = record.find('Amout').text
+        print(contributor, "\t", amount)
