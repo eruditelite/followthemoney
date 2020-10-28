@@ -13,5 +13,5 @@ print("contributor\tamount")
 for records in tree.findall('records'):
     for record in records.findall('record'):
         contributor = record.find('Contributor').text
-        amount = record.find('Amout').text
+        amount = record.find('Amount').text
         print(contributor, "\t", amount)
