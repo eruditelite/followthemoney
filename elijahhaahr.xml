@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <metaInfo>
+    <format>xml</format>
+    <completeness>
+      <allReports>62</allReports>
+      <availableReports>62</availableReports>
+      <completeReports>62</completeReports>
+      <incompleteAvailable>0</incompleteAvailable>
+      <lastUpdated>2019-04-10 20:33:07</lastUpdated>
+      <mostRecentReportDate>2018-12-06</mostRecentReportDate>
+    </completeness>
+    <paging>
+      <pageLink>p=0</pageLink>
+      <minPage>0</minPage>
+      <currentPage>0</currentPage>
+      <maxPage>0</maxPage>
+      <totalPages>1</totalPages>
+      <totalRecords>35</totalRecords>
+      <recordsPerPage>100</recordsPerPage>
+      <recordsThisPage>35</recordsThisPage>
+    </paging>
+    <grouping>
+      <groupLink>gro=d-id</groupLink>
+      <currentGrouping>
+        <d-id>Record (Contributors)</d-id>
+      </currentGrouping>
+      <availableGrouping>
+        <s>Election Jurisdiction (General)</s>
+        <y>Election Year (General)</y>
+        <f-s>Filing Jurisdiction (General)</f-s>
+        <f-eid>Filer (General)</f-eid>
+        <c-t-id>Candidate (General)</c-t-id>
+        <f-y>Filing Year (Advanced)</f-y>
+        <c-r-osid>Office Sought (Advanced)</c-r-osid>
+        <c-r-oc>Office (Advanced)</c-r-oc>
+        <c-t-i>Incumbency Data (Advanced)</c-t-i>
+        <c-t-icod>Incumbency Advantage (Advanced)</c-t-icod>
+        <d-llink>Lobbying Entity? (Advanced)</d-llink>
+        <c-t-sts>Status of Candidate (Candidates)</c-t-sts>
+        <c-t-pt>Specific Party (Candidates)</c-t-pt>
+        <c-t-p>General Party (Candidates)</c-t-p>
+        <c-t-eid>Career Summary (Candidates)</c-t-eid>
+        <c-r-t>Election Type (Candidates)</c-r-t>
+        <c-r-ot>General Office (Candidates)</c-r-ot>
+        <c-r-id>Specific Office (Candidates)</c-r-id>
+        <c-t-ico>Incumbency Status (Candidates)</c-t-ico>
+        <cis-f-ccg>Spender Sector (Spender)</cis-f-ccg>
+        <cis-f-cci>Spender Industry (Spender)</cis-f-cci>
+        <cis-f-ccb>Spender Business Classification (Spender)</cis-f-ccb>
+        <cis-et>Type of Spender (Spender)</cis-et>
+        <d-par>Parent Org or Employer (Contributors)</d-par>
+        <d-empl>Employer (Contributors)</d-empl>
+        <d-occupation>Occupation (Contributors)</d-occupation>
+      </availableGrouping>
+    </grouping>
+    <sorting>
+      <sortLink>so=d-amt&amp;amp;sod=0</sortLink>
+      <currentSorting>
+        <d-amt>Amount</d-amt>
+      </currentSorting>
+      <sortingDirection>descending</sortingDirection>
+      <availableSorting>
+        <d-nme>Original_Name</d-nme>
+        <d-eid>Contributor</d-eid>
+        <d-et>Type_of_Contributor</d-et>
+        <d-ccb>Specific_Business</d-ccb>
+        <d-cci>General_Industry</d-cci>
+        <d-ccg>Broad_Sector</d-ccg>
+        <d-dte>Date</d-dte>
+        <d-ludte>Last_Updated</d-ludte>
+        <d-typ>Type_of_Transaction</d-typ>
+        <d-purp>Purpose</d-purp>
+        <d-ad-cty>City</d-ad-cty>
+        <d-ad-st>State</d-ad-st>
+        <d-ad-zip>Zip</d-ad-zip>
+        <d-ins>In-State</d-ins>
+      </availableSorting>
+    </sorting>
+    <recordFormat>
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36</request>
+      <Original_Name token="d-nme" id="token value">display value</Original_Name>
+      <Contributor token="d-eid" id="token value">display value</Contributor>
+      <Type_of_Contributor token="d-et" id="token value">display value</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="token value">display value</Specific_Business>
+      <General_Industry token="d-cci" id="token value">display value</General_Industry>
+      <Broad_Sector token="d-ccg" id="token value">display value</Broad_Sector>
+      <Amount token="d-amt" id="token value">display value</Amount>
+      <Date token="d-dte" id="token value">display value</Date>
+      <Last_Updated token="d-ludte" id="token value">display value</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="token value">display value</Type_of_Transaction>
+      <Purpose token="d-purp" id="token value">display value</Purpose>
+      <City token="d-ad-cty" id="token value">display value</City>
+      <State token="d-ad-st" id="token value">display value</State>
+      <Zip token="d-ad-zip" id="token value">display value</Zip>
+      <In-State token="d-ins" id="token value">display value</In-State>
+    </recordFormat>
+  </metaInfo>
+  <records>
+    <record record_id="1">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=164769345</request>
+      <Original_Name token="d-nme" id="12728133">AMEREN MISSOURI PAC</Original_Name>
+      <Contributor token="d-eid" id="5745">AMEREN CORP</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="2600.00">2600.00</Amount>
+      <Date token="d-dte" id="2017-10-31">2017-10-31</Date>
+      <Last_Updated token="d-ludte" id="2018-03-12">2018-03-12</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="164769345"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="2">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=172495871</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="2600.00">2600.00</Amount>
+      <Date token="d-dte" id="2018-08-10">2018-08-10</Date>
+      <Last_Updated token="d-ludte" id="2018-10-03">2018-10-03</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="172495871"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="3">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=179464758</request>
+      <Original_Name token="d-nme" id="26710578">LIBERTY UTILITIES PAC</Original_Name>
+      <Contributor token="d-eid" id="16733689">LIBERTY UTILITIES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="2600.00">2600.00</Amount>
+      <Date token="d-dte" id="2018-10-30">2018-10-30</Date>
+      <Last_Updated token="d-ludte" id="2020-01-08">2020-01-08</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="179464758"/>
+      <City token="d-ad-cty" id="JOPLIN">JOPLIN</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="64802">64802</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="4">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=179464759</request>
+      <Original_Name token="d-nme" id="3561083">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Original_Name>
+      <Contributor token="d-eid" id="7874">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="2500.00">2500.00</Amount>
+      <Date token="d-dte" id="2018-10-30">2018-10-30</Date>
+      <Last_Updated token="d-ludte" id="2020-05-15">2020-05-15</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="179464759"/>
+      <City token="d-ad-cty" id="COLUMBIA">COLUMBIA</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65203">65203</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="5">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156642802</request>
+      <Original_Name token="d-nme" id="24631036">LIBERTY ENERGY (MIDSTATES) CORP</Original_Name>
+      <Contributor token="d-eid" id="43523707">LIBERTY ENERGY MIDSTATES CORP</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="102">Electric power utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="2000.00">2000.00</Amount>
+      <Date token="d-dte" id="2016-10-12">2016-10-12</Date>
+      <Last_Updated token="d-ludte" id="2017-05-17">2017-05-17</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156642802"/>
+      <City token="d-ad-cty" id="JACKSON">JACKSON</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="63755">63755</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="6">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=172495922</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1800.00">1800.00</Amount>
+      <Date token="d-dte" id="2018-07-06">2018-07-06</Date>
+      <Last_Updated token="d-ludte" id="2018-10-03">2018-10-03</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="172495922"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="7">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=172495824</request>
+      <Original_Name token="d-nme" id="3561083">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Original_Name>
+      <Contributor token="d-eid" id="7874">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1600.00">1600.00</Amount>
+      <Date token="d-dte" id="2018-07-08">2018-07-08</Date>
+      <Last_Updated token="d-ludte" id="2020-05-15">2020-05-15</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="172495824"/>
+      <City token="d-ad-cty" id="COLUMBIA">COLUMBIA</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65203">65203</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="8">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=164769341</request>
+      <Original_Name token="d-nme" id="24180538">SPIRE PAC</Original_Name>
+      <Contributor token="d-eid" id="41798295">SPIRE ENERGY</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1500.00">1500.00</Amount>
+      <Date token="d-dte" id="2017-10-24">2017-10-24</Date>
+      <Last_Updated token="d-ludte" id="2020-04-27">2020-04-27</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="164769341"/>
+      <City token="d-ad-cty" id="Saint Louis">Saint Louis</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="63101">63101</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="9">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=179464780</request>
+      <Original_Name token="d-nme" id="3704077">KCP&amp;L POWER PAC MISSOURI</Original_Name>
+      <Contributor token="d-eid" id="7354">KANSAS CITY POWER &amp; LIGHT</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="102">Electric power utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1500.00">1500.00</Amount>
+      <Date token="d-dte" id="2018-10-01">2018-10-01</Date>
+      <Last_Updated token="d-ludte" id="2019-04-03">2019-04-03</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="179464780"/>
+      <City token="d-ad-cty" id="KANSAS CITY">KANSAS CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="64118">64118</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="10">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156629622</request>
+      <Original_Name token="d-nme" id="12728133">AMEREN MISSOURI PAC</Original_Name>
+      <Contributor token="d-eid" id="5745">AMEREN CORP</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1250.00">1250.00</Amount>
+      <Date token="d-dte" id="2016-09-01">2016-09-01</Date>
+      <Last_Updated token="d-ludte" id="2017-06-05">2017-06-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156629622"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="11">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156629623</request>
+      <Original_Name token="d-nme" id="12728133">AMEREN MISSOURI PAC</Original_Name>
+      <Contributor token="d-eid" id="5745">AMEREN CORP</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1250.00">1250.00</Amount>
+      <Date token="d-dte" id="2016-09-16">2016-09-16</Date>
+      <Last_Updated token="d-ludte" id="2017-06-05">2017-06-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156629623"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="12">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=172495917</request>
+      <Original_Name token="d-nme" id="24180538">SPIRE PAC</Original_Name>
+      <Contributor token="d-eid" id="41798295">SPIRE ENERGY</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1100.00">1100.00</Amount>
+      <Date token="d-dte" id="2018-07-05">2018-07-05</Date>
+      <Last_Updated token="d-ludte" id="2020-04-27">2020-04-27</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="172495917"/>
+      <City token="d-ad-cty" id="SAINT LOUIS">SAINT LOUIS</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="63101">63101</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="13">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156629607</request>
+      <Original_Name token="d-nme" id="3704077">KCP&amp;L POWER PAC MISSOURI</Original_Name>
+      <Contributor token="d-eid" id="7354">KANSAS CITY POWER &amp; LIGHT</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="102">Electric power utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1000.00">1000.00</Amount>
+      <Date token="d-dte" id="2016-09-01">2016-09-01</Date>
+      <Last_Updated token="d-ludte" id="2017-04-05">2017-04-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156629607"/>
+      <City token="d-ad-cty" id="KANSAS CITY">KANSAS CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="64141">64141</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="14">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156629627</request>
+      <Original_Name token="d-nme" id="24180916">SPIRE POLITICAL ACTION COMMITTEE</Original_Name>
+      <Contributor token="d-eid" id="41798295">SPIRE ENERGY</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1000.00">1000.00</Amount>
+      <Date token="d-dte" id="2016-09-26">2016-09-26</Date>
+      <Last_Updated token="d-ludte" id="2020-04-27">2020-04-27</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156629627"/>
+      <City token="d-ad-cty" id="Saint Louis">Saint Louis</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="63101">63101</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="15">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=164756704</request>
+      <Original_Name token="d-nme" id="3561083">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Original_Name>
+      <Contributor token="d-eid" id="7874">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1000.00">1000.00</Amount>
+      <Date token="d-dte" id="2017-06-16">2017-06-16</Date>
+      <Last_Updated token="d-ludte" id="2020-05-15">2020-05-15</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="164756704"/>
+      <City token="d-ad-cty" id="COLUMBIA">COLUMBIA</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65203">65203</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="16">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=164769389</request>
+      <Original_Name token="d-nme" id="2400904">THE EMPIRE DISTRICT ELECTRIC CO PAC</Original_Name>
+      <Contributor token="d-eid" id="6687">EMPIRE DISTRICT</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1000.00">1000.00</Amount>
+      <Date token="d-dte" id="2017-12-26">2017-12-26</Date>
+      <Last_Updated token="d-ludte" id="2020-04-04">2020-04-04</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="164769389"/>
+      <City token="d-ad-cty" id="JOPLIN">JOPLIN</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="64802">64802</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="17">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=179464676</request>
+      <Original_Name token="d-nme" id="3595466">ASSOCIATED INDUSTRIES OF MISSOURI PAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="1000.00">1000.00</Amount>
+      <Date token="d-dte" id="2018-09-10">2018-09-10</Date>
+      <Last_Updated token="d-ludte" id="2020-01-02">2020-01-02</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="179464676"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65109">65109</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="18">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156611798</request>
+      <Original_Name token="d-nme" id="3561083">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Original_Name>
+      <Contributor token="d-eid" id="7874">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="500.00">500.00</Amount>
+      <Date token="d-dte" id="2016-07-01">2016-07-01</Date>
+      <Last_Updated token="d-ludte" id="2020-05-15">2020-05-15</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156611798"/>
+      <City token="d-ad-cty" id="COLUMBIA">COLUMBIA</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65203">65203</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="19">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156667387</request>
+      <Original_Name token="d-nme" id="3561083">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Original_Name>
+      <Contributor token="d-eid" id="7874">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="500.00">500.00</Amount>
+      <Date token="d-dte" id="2015-07-01">2015-07-01</Date>
+      <Last_Updated token="d-ludte" id="2020-05-15">2020-05-15</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156667387"/>
+      <City token="d-ad-cty" id="COLUMBIA">COLUMBIA</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65203">65203</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="20">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=164762150</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="500.00">500.00</Amount>
+      <Date token="d-dte" id="2017-09-29">2017-09-29</Date>
+      <Last_Updated token="d-ludte" id="2018-03-12">2018-03-12</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="164762150"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="21">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156667418</request>
+      <Original_Name token="d-nme" id="3666390">KCP&amp;L POWER PAC - MISSOURI</Original_Name>
+      <Contributor token="d-eid" id="7354">KANSAS CITY POWER &amp; LIGHT</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="102">Electric power utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="350.00">350.00</Amount>
+      <Date token="d-dte" id="2015-07-01">2015-07-01</Date>
+      <Last_Updated token="d-ludte" id="2017-04-05">2017-04-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156667418"/>
+      <City token="d-ad-cty" id="KANSAS CITY">KANSAS CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="64141">64141</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="22">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156654947</request>
+      <Original_Name token="d-nme" id="3683426">LACLEDE POLITICAL ACTION COMMITTEE</Original_Name>
+      <Contributor token="d-eid" id="13535">LACLEDE GAS CO</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="325.00">325.00</Amount>
+      <Date token="d-dte" id="2015-03-31">2015-03-31</Date>
+      <Last_Updated token="d-ludte" id="2017-04-05">2017-04-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156654947"/>
+      <City token="d-ad-cty" id="SAINT LOUIS">SAINT LOUIS</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="63101">63101</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="23">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156677622</request>
+      <Original_Name token="d-nme" id="12728133">AMEREN MISSOURI PAC</Original_Name>
+      <Contributor token="d-eid" id="5745">AMEREN CORP</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="325.00">325.00</Amount>
+      <Date token="d-dte" id="2015-12-01">2015-12-01</Date>
+      <Last_Updated token="d-ludte" id="2017-06-05">2017-06-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156677622"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="24">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=35179019</request>
+      <Original_Name token="d-nme" id="3561083">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Original_Name>
+      <Contributor token="d-eid" id="7874">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="300.00">300.00</Amount>
+      <Date token="d-dte" id="2012-10-12">2012-10-12</Date>
+      <Last_Updated token="d-ludte" id="2020-05-15">2020-05-15</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="35179019"/>
+      <City token="d-ad-cty" id="COLUMBIA">COLUMBIA</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65203">65203</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="25">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=41284210</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="300.00">300.00</Amount>
+      <Date token="d-dte" id="2013-03-20">2013-03-20</Date>
+      <Last_Updated token="d-ludte" id="2016-07-13">2016-07-13</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="41284210"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="26">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=45225674</request>
+      <Original_Name token="d-nme" id="2400904">THE EMPIRE DISTRICT ELECTRIC CO PAC</Original_Name>
+      <Contributor token="d-eid" id="6687">EMPIRE DISTRICT</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="300.00">300.00</Amount>
+      <Date token="d-dte" id="2013-12-17">2013-12-17</Date>
+      <Last_Updated token="d-ludte" id="2020-04-04">2020-04-04</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="45225674"/>
+      <City token="d-ad-cty" id="JOPLIN">JOPLIN</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="64802">64802</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="27">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156667399</request>
+      <Original_Name token="d-nme" id="2370063">EMPIRE DISTRICT ELECTRIC PAC</Original_Name>
+      <Contributor token="d-eid" id="6687">EMPIRE DISTRICT</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="300.00">300.00</Amount>
+      <Date token="d-dte" id="2015-07-01">2015-07-01</Date>
+      <Last_Updated token="d-ludte" id="2020-04-04">2020-04-04</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156667399"/>
+      <City token="d-ad-cty" id="JOPLIN">JOPLIN</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="64802">64802</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="28">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=164756688</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="300.00">300.00</Amount>
+      <Date token="d-dte" id="2017-03-13">2017-03-13</Date>
+      <Last_Updated token="d-ludte" id="2018-03-12">2018-03-12</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="164756688"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="29">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=41319081</request>
+      <Original_Name token="d-nme" id="12728133">AMEREN MISSOURI PAC</Original_Name>
+      <Contributor token="d-eid" id="5745">AMEREN CORP</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="250.00">250.00</Amount>
+      <Date token="d-dte" id="2013-09-03">2013-09-03</Date>
+      <Last_Updated token="d-ludte" id="2017-06-05">2017-06-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="41319081"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="30">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156591448</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="250.00">250.00</Amount>
+      <Date token="d-dte" id="2016-03-07">2016-03-07</Date>
+      <Last_Updated token="d-ludte" id="2017-04-05">2017-04-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156591448"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65101">65101</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="31">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156629630</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="250.00">250.00</Amount>
+      <Date token="d-dte" id="2016-09-14">2016-09-14</Date>
+      <Last_Updated token="d-ludte" id="2017-04-05">2017-04-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156629630"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="32">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156654941</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="250.00">250.00</Amount>
+      <Date token="d-dte" id="2015-03-31">2015-03-31</Date>
+      <Last_Updated token="d-ludte" id="2017-04-05">2017-04-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156654941"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="33">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=156667392</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="250.00">250.00</Amount>
+      <Date token="d-dte" id="2015-07-01">2015-07-01</Date>
+      <Last_Updated token="d-ludte" id="2017-04-05">2017-04-05</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="156667392"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65101">65101</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="34">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=45225673</request>
+      <Original_Name token="d-nme" id="3561083">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Original_Name>
+      <Contributor token="d-eid" id="7874">MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="104">Gas &amp; electric utilities</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="200.00">200.00</Amount>
+      <Date token="d-dte" id="2013-12-15">2013-12-15</Date>
+      <Last_Updated token="d-ludte" id="2020-05-15">2020-05-15</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="45225673"/>
+      <City token="d-ad-cty" id="COLUMBIA">COLUMBIA</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65203">65203</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+    <record record_id="35">
+      <request>dt=1&amp;amp;c-t-eid=3746352&amp;amp;d-cci=36&amp;amp;d-id=54483842</request>
+      <Original_Name token="d-nme" id="1051358">AMECPAC</Original_Name>
+      <Contributor token="d-eid" id="5882">ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES</Contributor>
+      <Type_of_Contributor token="d-et" id="3">Non-Individual</Type_of_Contributor>
+      <Specific_Business token="d-ccb" id="103">Rural electric cooperatives</Specific_Business>
+      <General_Industry token="d-cci" id="36">Electric Utilities</General_Industry>
+      <Broad_Sector token="d-ccg" id="5">Energy &amp; Natural Resources</Broad_Sector>
+      <Amount token="d-amt" id="200.00">200.00</Amount>
+      <Date token="d-dte" id="2014-03-13">2014-03-13</Date>
+      <Last_Updated token="d-ludte" id="2016-07-13">2016-07-13</Last_Updated>
+      <Type_of_Transaction token="d-typ" id="1">DIR</Type_of_Transaction>
+      <Purpose token="d-purp" id="54483842"/>
+      <City token="d-ad-cty" id="JEFFERSON CITY">JEFFERSON CITY</City>
+      <State token="d-ad-st" id="MO">MO</State>
+      <Zip token="d-ad-zip" id="65102">65102</Zip>
+      <In-State token="d-ins" id="1">1</In-State>
+    </record>
+  </records>
+</response>
