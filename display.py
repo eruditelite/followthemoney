@@ -8,10 +8,11 @@ if (2 != len(sys.argv)):
 tree = ET.parse(str(sys.argv[1]))
 root = tree.getroot()
 
-print("contributor\tamount")
+print("contributor\tamount\tdate")
 
 for records in tree.findall('records'):
     for record in records.findall('record'):
         contributor = record.find('Contributor').text
+        date = record.find('Date').text
         amount = record.find('Amount').text
-        print(contributor, "\t", amount)
+        print(contributor, "\t", amount, "\t", date)
