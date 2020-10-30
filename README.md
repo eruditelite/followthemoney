@@ -1,5 +1,5 @@
 ##
-Download by selecting "Date Export" and choosing XML.  Copy the link and
+Download by selecting "Data Export" and choosing XML.  Copy the link and
 
 wget --wait=2 \
      --level=inf \
